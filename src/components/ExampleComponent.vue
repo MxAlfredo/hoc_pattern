@@ -1,5 +1,5 @@
 <script lang="ts" setup></script>
 
 <template>
-  <h1>Data loaded</h1>
+  <h1>Componente mejorado al ser cargado</h1>
 </template>
